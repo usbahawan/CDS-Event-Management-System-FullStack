@@ -71,4 +71,3 @@ web-technologies/
 - **Muhammad Huzaifa**
 
 ---
-© 2025 CDS Team. Created with &hearts;.
